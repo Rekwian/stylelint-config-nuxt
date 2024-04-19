@@ -1,6 +1,6 @@
 {
   "name": "@rekwian/stylelint-config-nuxt",
-  "version": "v1",
+  "version": "1",
   "packageManager": "yarn@4.1.1",
   "scripts": {
     "lint:style": "stylelint \"**/*.{vue,css,scss,sass}\""
